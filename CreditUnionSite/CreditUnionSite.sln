@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnion.UnitTests", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnion.IntegrationTests", "CreditUnion.IntegrationTests\CreditUnion.IntegrationTests.csproj", "{C1ED4E9C-BDF7-4C49-B757-8777A42AE29E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnioin", "CreditUnioin\CreditUnioin.csproj", "{4DC1957E-D576-4215-B80B-E8166CCD9ABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{C1ED4E9C-BDF7-4C49-B757-8777A42AE29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1ED4E9C-BDF7-4C49-B757-8777A42AE29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1ED4E9C-BDF7-4C49-B757-8777A42AE29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC1957E-D576-4215-B80B-E8166CCD9ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC1957E-D576-4215-B80B-E8166CCD9ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC1957E-D576-4215-B80B-E8166CCD9ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC1957E-D576-4215-B80B-E8166CCD9ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
