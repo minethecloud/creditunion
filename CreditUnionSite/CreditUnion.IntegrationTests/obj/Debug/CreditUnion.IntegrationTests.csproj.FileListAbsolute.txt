@@ -1,0 +1,5 @@
+G:\Minethecloud\creditunion\CreditUnionSite\CreditUnion.IntegrationTests\bin\Debug\CreditUnion.IntegrationTests.dll
+G:\Minethecloud\creditunion\CreditUnionSite\CreditUnion.IntegrationTests\bin\Debug\CreditUnion.IntegrationTests.pdb
+G:\Minethecloud\creditunion\CreditUnionSite\CreditUnion.IntegrationTests\obj\Debug\CreditUnion.IntegrationTests.csprojResolveAssemblyReference.cache
+G:\Minethecloud\creditunion\CreditUnionSite\CreditUnion.IntegrationTests\obj\Debug\CreditUnion.IntegrationTests.dll
+G:\Minethecloud\creditunion\CreditUnionSite\CreditUnion.IntegrationTests\obj\Debug\CreditUnion.IntegrationTests.pdb
