@@ -11,7 +11,7 @@ namespace CreditUnioin.Loans
             _driversLicenseValidator = numberValidator;
         }
 
-        public List<string> Validate(Entities.CreditCardApplication application)
+        public List<string> Validate(Entities.CarLoanApplication application)
         {
             var errors = new List<string>();
 

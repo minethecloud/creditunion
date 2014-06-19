@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\CreditCardApplication.cs" />
+    <Compile Include="Entities\CarLoanApplication.cs" />
     <Compile Include="Entities\SubmissionResult.cs" />
     <Compile Include="Gateways\BankMainFrameGateway.cs" />
     <Compile Include="Gateways\CreditCardCheckerGateway.cs" />

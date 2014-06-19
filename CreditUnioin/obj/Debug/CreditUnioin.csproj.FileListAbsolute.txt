@@ -3,3 +3,8 @@ G:\Minethecloud\creditunion\CreditUnionSite\CreditUnioin\bin\Debug\CreditUnioin.
 G:\Minethecloud\creditunion\CreditUnionSite\CreditUnioin\bin\Debug\CreditUnioin.pdb
 G:\Minethecloud\creditunion\CreditUnionSite\CreditUnioin\obj\Debug\CreditUnioin.dll
 G:\Minethecloud\creditunion\CreditUnionSite\CreditUnioin\obj\Debug\CreditUnioin.pdb
+G:\Minethecloud\creditunion\CreditUnioin\bin\Debug\CreditUnioin.dll
+G:\Minethecloud\creditunion\CreditUnioin\bin\Debug\CreditUnioin.pdb
+G:\Minethecloud\creditunion\CreditUnioin\obj\Debug\CreditUnioin.csprojResolveAssemblyReference.cache
+G:\Minethecloud\creditunion\CreditUnioin\obj\Debug\CreditUnioin.dll
+G:\Minethecloud\creditunion\CreditUnioin\obj\Debug\CreditUnioin.pdb

@@ -5,6 +5,6 @@ namespace CreditUnioin.Loans
 {
     public interface IApplicationValidator
     {
-        List<string> Validate(CreditCardApplication application); 
+        List<string> Validate(CarLoanApplication application); 
     }
 }

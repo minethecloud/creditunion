@@ -4,6 +4,6 @@ namespace CreditUnioin.Gateways
 {
     public interface IBankMainFrameGateway
     {
-        int CreateNew(CreditCardApplication application); 
+        int CreateNew(CarLoanApplication application); 
     }
 }
