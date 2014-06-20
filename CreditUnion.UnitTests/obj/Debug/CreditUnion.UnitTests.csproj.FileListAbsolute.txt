@@ -3,3 +3,7 @@ G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\CreditUnion.UnitTest
 G:\Minethecloud\creditunion\CreditUnion.UnitTests\obj\Debug\CreditUnion.UnitTests.csprojResolveAssemblyReference.cache
 G:\Minethecloud\creditunion\CreditUnion.UnitTests\obj\Debug\CreditUnion.UnitTests.dll
 G:\Minethecloud\creditunion\CreditUnion.UnitTests\obj\Debug\CreditUnion.UnitTests.pdb
+G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\CreditUnioin.dll
+G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\CreditUnioin.pdb
+G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\nunit.framework.dll
+G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\nunit.framework.xml
