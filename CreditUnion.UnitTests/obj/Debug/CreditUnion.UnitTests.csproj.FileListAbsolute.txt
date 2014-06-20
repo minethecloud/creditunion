@@ -7,3 +7,5 @@ G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\CreditUnioin.dll
 G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\CreditUnioin.pdb
 G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\nunit.framework.dll
 G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\nunit.framework.xml
+G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\Moq.dll
+G:\Minethecloud\creditunion\CreditUnion.UnitTests\bin\Debug\Moq.xml

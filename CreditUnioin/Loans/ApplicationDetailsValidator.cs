@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using CreditUnioin.Entities;
 
 namespace CreditUnioin.Loans
 {
@@ -11,7 +12,7 @@ namespace CreditUnioin.Loans
             _driversLicenseValidator = numberValidator;
         }
 
-        public List<string> Validate(Entities.CarLoanApplication application)
+        public List<string> Validate(CarLoanApplication application)
         {
             var errors = new List<string>();
 

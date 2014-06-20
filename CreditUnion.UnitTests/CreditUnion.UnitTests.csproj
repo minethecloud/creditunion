@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\CreditUnionSite\packages\Moq.4.2.1402.2112\lib\net40\Moq.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.core">
       <HintPath>..\CreditUnionSite\packages\NUnitTestAdapter.1.0\lib\nunit.core.dll</HintPath>
       <Private>False</Private>
@@ -58,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationDetailsValidatorTests.cs" />
     <Compile Include="DriversLicenceNumberValidatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
