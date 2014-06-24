@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnionSite", "CreditUn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnion.UnitTests", "..\CreditUnion.UnitTests\CreditUnion.UnitTests.csproj", "{7255A207-7A07-41E2-96C3-3ECBFF408EEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnioin", "..\CreditUnioin\CreditUnioin.csproj", "{4DC1957E-D576-4215-B80B-E8166CCD9ABD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnion", "..\CreditUnioin\CreditUnion.csproj", "{4DC1957E-D576-4215-B80B-E8166CCD9ABD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditUnion.IntegrationTests", "..\CreditUnion.IntegrationTests\CreditUnion.IntegrationTests.csproj", "{C1ED4E9C-BDF7-4C49-B757-8777A42AE29E}"
 EndProject

@@ -7,8 +7,8 @@
     <ProjectGuid>{4DC1957E-D576-4215-B80B-E8166CCD9ABD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CreditUnioin</RootNamespace>
-    <AssemblyName>CreditUnioin</AssemblyName>
+    <RootNamespace>CreditUnion</RootNamespace>
+    <AssemblyName>CreditUnion</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -31,5 +31,5 @@ G:\Minethecloud\creditunion\CreditUnionSite\bin\Microsoft.AspNet.FriendlyUrls.xm
 G:\Minethecloud\creditunion\CreditUnionSite\obj\Debug\CreditUnionSite.csprojResolveAssemblyReference.cache
 G:\Minethecloud\creditunion\CreditUnionSite\obj\Debug\CreditUnionSite.dll
 G:\Minethecloud\creditunion\CreditUnionSite\obj\Debug\CreditUnionSite.pdb
-G:\Minethecloud\creditunion\CreditUnionSite\bin\CreditUnioin.dll
-G:\Minethecloud\creditunion\CreditUnionSite\bin\CreditUnioin.pdb
+G:\Minethecloud\creditunion\CreditUnionSite\bin\CreditUnion.dll
+G:\Minethecloud\creditunion\CreditUnionSite\bin\CreditUnion.pdb

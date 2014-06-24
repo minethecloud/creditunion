@@ -1,0 +1,5 @@
+G:\Minethecloud\creditunion\CreditUnioin\bin\Debug\CreditUnion.dll
+G:\Minethecloud\creditunion\CreditUnioin\bin\Debug\CreditUnion.pdb
+G:\Minethecloud\creditunion\CreditUnioin\obj\Debug\CreditUnion.csprojResolveAssemblyReference.cache
+G:\Minethecloud\creditunion\CreditUnioin\obj\Debug\CreditUnion.dll
+G:\Minethecloud\creditunion\CreditUnioin\obj\Debug\CreditUnion.pdb

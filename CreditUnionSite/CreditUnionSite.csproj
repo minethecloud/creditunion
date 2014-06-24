@@ -347,9 +347,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CreditUnioin\CreditUnioin.csproj">
+    <ProjectReference Include="..\CreditUnioin\CreditUnion.csproj">
       <Project>{4dc1957e-d576-4215-b80b-e8166ccd9abd}</Project>
-      <Name>CreditUnioin</Name>
+      <Name>CreditUnion</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
